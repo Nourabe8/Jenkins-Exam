@@ -16,4 +16,4 @@ phases:
       - echo Build completed on `date`
 artifacts:
   files:
-    - target/samplejava4.jar
+    - nouralotaibi-belt2d2-artifacts-123456
