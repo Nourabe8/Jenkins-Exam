@@ -5,10 +5,10 @@ phases:
     commands:
       - echo Build started on `date`
       - echo Compiling the java code...
-      - Java samplejava.jar
+      - Java StudentControllerIT.java
   post_build:
     commands:
       - echo Build completed on `date`
 artifacts:
   files:
-    - samplejava.jar
+    - StudentControllerIT.java
